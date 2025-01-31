@@ -155,3 +155,10 @@ The **MikeRoss Project** aims to address this by creating an AI-powered assistan
 - **Secure cloud storage** for legal case files and documents.
 
 ---
+
+### API CONTRACTS
+
+- [Admin API](./docs/adminAPI.md)
+- [User API](./docs/userAPI.md)
+- [Person API](./docs/personAPI.md)
+- [Assistant GPT](https://platform.openai.com/docs/api-reference/assistants)
