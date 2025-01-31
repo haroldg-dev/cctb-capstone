@@ -161,3 +161,5 @@ The **MikeRoss Project** aims to address this by creating an AI-powered assistan
 - [User API](./docs/userAPI.md)
 - [Person API](./docs/personAPI.md)
 - [Assistant GPT](https://platform.openai.com/docs/api-reference/assistants)
+- [Threads API](./docs/threadAPI.md)
+- [Messages API](./docs/messagesAPI.md)
